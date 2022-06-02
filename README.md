@@ -1,6 +1,6 @@
 # NoobCashDistrSystems
-ECE NTUA distributed systems project 
+ECE NTUA distributed systems project by:
  
-Μαυρογεώργης Κωνσταντίνος
-Ριζεάκου Χρύσα
+Μαυρογεώργης Κωνσταντίνος \
+Ριζεάκου Χρύσα \
 Μύτης Ιωάννης
